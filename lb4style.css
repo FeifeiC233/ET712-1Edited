@@ -1,0 +1,12 @@
+h1{
+        background-color:rgb(250,170,30);
+        padding: 40px;
+        margin:10px;
+        border:10px;
+        border-color:pink;
+        border-width:5px;
+        border-style:double;
+      }
+      h3{
+        color:rgb(155,155,155);
+      }
